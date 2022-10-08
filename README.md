@@ -1,3 +1,3 @@
 # Lig-4-game-in-c-
 
-<img src="https://cdn.discordapp.com/attachments/959504759570722869/1003851679034253422/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/838041895354761296/1028279765611860049/unknown.png">
