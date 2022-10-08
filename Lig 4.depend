@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1659405941 source:c:\users\ianmt\onedrive\programas\tudo\programas\ufs\prog2\projeto p2\lig 4\main.cpp
-	<stdio.h>
-	<string.h>
-	<math.h>
-	<iostream>
-	<cmath>
-
