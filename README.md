@@ -1,11 +1,12 @@
 # Lig-4-game-in-c-
 
-<img src="https://cdn.discordapp.com/attachments/838041895354761296/1028279765611860049/unknown.png">
+<img src="https://flic.kr/p/2q6PiV8">
+
+<h1>Projeto de Programação2</h1>
+
+<h2>Equipe de Desenvolvimento</h2>
 
 
-# SGPF
-Organizador-Financeiro  
-<h1>Equipe</h1>
 
 <h3>Ian</h2>
 <h3>Gustavo</h2>
